@@ -41,7 +41,7 @@ Use the template below and fill in the bracketed text with the appropriate infor
 [date]
 
 By introducing this file I hereby agree to the terms of the Qlik Contributors License
-Agreement, version 1.0, with MD5 checksum: e4ed5b420a8c9400390a55ac12dad65b.
+Agreement, version 1.0, with MD5 checksum: 08ba49d05abdb5364e6fae89f1a931cf.
 
 I furthermore declare that I am authorized and able to make this agreement.
 
